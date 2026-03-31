@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
- <img height="70" src="logo-foto.png"  />
+
   
   <a href="mailto:guilemos324@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="E-mail do Guilherme" />
@@ -28,6 +28,7 @@
 ###
 
 <div align="center">
+  <img height="70" src="logo-foto.png"  />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DevLemosx.DevLemosx&"  />
 </div>
 
