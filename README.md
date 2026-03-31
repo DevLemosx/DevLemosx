@@ -5,6 +5,7 @@
 ###
 
 <div align="center">
+ <img height="70" src="logo-foto.png"  />
   
   <a href="mailto:guilemos324@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="E-mail do Guilherme" />
@@ -40,7 +41,7 @@
 
 ###
 
-<p align="left">I'm **Guilherme Lemos** from **Paragominas, PA - Brazil**.<br><br>- 🔭 I’m currently working as a **freelance Web Designer**.<br>- 📚 I'm currently **deepening my knowledge in Front-End development**.<br>- ⚡ In my free time I **study programming and explore new technologies**.</p>
+<p align="left">I'm Guilherme Lemos from Paragominas, PA - Brazil.<br><br>- 🔭 I’m currently working as a freelance Web Designer.<br>- 📚 I'm currently deepening my knowledge in Front-End development.<br>- ⚡ In my free time I study programming and explore new technologies.</p>
 
 ###
 
