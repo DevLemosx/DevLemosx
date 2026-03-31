@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="minha-foto.jpg"  />
+  <img height="150" src="minha-foto.png"  />
 </div>
 
 ###
@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="E-mail do Guilherme" />
   </a>
 
-  <a href="https://www.linkedin.com/in/guilherme-lemos" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-lemos-98b209357" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn do Guilherme" />
   </a>
 
