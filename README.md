@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img height="70" src="logo-foto.png"  />
+  <img height="90" src="logo-foto.png"  />.<br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DevLemosx.DevLemosx&"  />
 </div>
 
